@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="prev_month">Previous Month</string>
+    <string name="next_month">Next Month</string>
+</resources>

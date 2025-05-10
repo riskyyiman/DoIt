@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Saat ditekan -->
+    <item android:state_pressed="true" android:drawable="@drawable/ic_arrow_left_pressed" />
+
+    <!-- Saat normal -->
+    <item android:drawable="@drawable/ic_arrow_left_normal" />
+
+</selector>

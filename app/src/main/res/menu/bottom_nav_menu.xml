@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_gift"
+        android:icon="@drawable/ic_inbox"
+        android:title="Inbox" />
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@drawable/ic_calendar"
+        android:title="Calendar" />
+<!--    <item-->
+<!--        android:id="@+id/navigation_more"-->
+<!--        android:icon="@drawable/ic_filter"-->
+<!--        android:title="Filter and label" />-->
+</menu>

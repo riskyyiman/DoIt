@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Warna latar belakang -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Membuat sudut membulat -->
+    <corners android:radius="12dp" />
+
+    <!-- Border halus -->
+    <stroke
+        android:width="1dp"
+        android:color="#DDDDDD" />
+
+    <!-- Sedikit bayangan simulasi (optional jika mau lebih nyata pakai elevation di View) -->
+</shape>
